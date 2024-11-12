@@ -10,10 +10,12 @@ I'm majoring in AI Big Data & Management, with a combined focus in software as w
 ## Technical Skills
 Languages
 
-Development Tools
+Tools
 
 
 ## Contact
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/5seo0)](www.linkedin.com/in/5seo0)
+
 
 ## GitHub Stats
 <picture>
