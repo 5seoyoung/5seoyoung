@@ -8,7 +8,7 @@ I'm majoring in AI Big Data & Management, with a combined focus in software as w
 ## About me
 
 ## Technical Skills <br>
-Languages
+Languages <br>
 [![Python Badge](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
 [![SQL Badge](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)](https://www.mysql.com/)
 
