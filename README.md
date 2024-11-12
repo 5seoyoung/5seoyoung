@@ -8,6 +8,10 @@ I'm majoring in AI Big Data & Management, with a combined focus in software as w
 ## About me
 
 ## Technical Skills
+Languages
+
+Development Tools
+
 
 ## Contact
 
