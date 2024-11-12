@@ -2,6 +2,13 @@
 
 
 ## Hi there 👋
+Hello, I'm Seoyoung Oh, with a deep interest in healthcare data and medical AI. I'm majoring in AI Big Data & Management, with a combined focus in software as well.
+
+
+
+
+
+
 
 <!--
 **5seoyoung/5seoyoung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
