@@ -5,11 +5,25 @@
 Hello, I'm Seoyoung Oh, with a deep interest in healthcare data and medical AI.<br>
 I'm majoring in AI Big Data & Management, with a combined focus in software as well.
 
+## About me
+
 ## Technical Skills
 
 ## Contact
 
-## About me
+## GitHub Stats
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=5seoyoung&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=5seoyoung&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=5seoyoung&show_icons=true" />
+</picture>
+
 
 
 
