@@ -2,8 +2,10 @@
 
 
 ## Hi there 👋
-Hello, I'm Seoyoung Oh, with a deep interest in healthcare data and medical AI.<br>
-I'm majoring in AI Big Data & Management, with a combined focus in software as well.
+Hi, I’m Seoyoung Oh. I’m majoring in AI Big Data & Management with a double major in Data Science. <br>
+I have a strong passion for Healthcare and Medical AI, and I’m particularly interested in exploring how data can transform these fields. <br>
+While I find other areas of data fascinating, I’m especially drawn to the healthcare and medical fields. <br>
+They’re the most interesting to me, and I’m focusing my studies on these domains.
 
 ## About me
 
