@@ -13,6 +13,7 @@ They’re the most interesting to me, and I’m focusing my studies on these dom
 Languages <br>
 [![Python Badge](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
 [![SQL Badge](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)](https://www.mysql.com/)
+[![PyTorch Badge](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white)](https://pytorch.org/)
 
 Tools <br>
 [![VSCode Badge](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
