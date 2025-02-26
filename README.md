@@ -8,7 +8,7 @@ While I find other areas of data fascinating, I’m especially drawn to the heal
 They’re the most interesting to me, and I’m focusing my studies on these domains.
 
 ## About me <br>
-[![Notion](https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png)](https://unleashed-oil-858.notion.site/seoyoung-oh) <br>
+[![Notion Badge](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)](https://unleashed-oil-858.notion.site/seoyoung-oh) <br>
 
 ## Technical Skills <br>
 Languages <br>
