@@ -7,7 +7,8 @@ I have a strong passion for Healthcare and Medical AI, and I’m particularly in
 While I find other areas of data fascinating, I’m especially drawn to the healthcare and medical fields. <br>
 They’re the most interesting to me, and I’m focusing my studies on these domains.
 
-## About me
+## About me <br>
+[![Notion](https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png)](https://unleashed-oil-858.notion.site/seoyoung-oh) <br>
 
 ## Technical Skills <br>
 Languages <br>
