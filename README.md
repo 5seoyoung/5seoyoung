@@ -9,6 +9,7 @@ They’re the most interesting to me, and I’m focusing my studies on these dom
 
 ## About me <br>
 [![Notion Badge](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)](https://unleashed-oil-858.notion.site/seoyoung-oh) <br>
+[![Tistory Badge](https://img.shields.io/badge/Tistory-FF5722?style=flat-square&logo=tistory&logoColor=white)](https://5seo0.tistory.com) <br>
 
 ## Technical Skills <br>
 Languages <br>
