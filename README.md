@@ -8,16 +8,18 @@ While I find other areas of data fascinating, I’m especially drawn to the heal
 They’re the most interesting to me, and I’m focusing my studies on these domains.
 
 ## About me <br>
-[![Notion Badge](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)](https://unleashed-oil-858.notion.site/seoyoung-oh)
-[![Tistory Badge](https://img.shields.io/badge/Tistory-FF5722?style=flat-square&logo=tistory&logoColor=white)](https://5seo0.tistory.com) <br>
-
 [![Portfolio Badge](https://img.shields.io/badge/Portfolio-6A5ACD?style=for-the-badge&logo=githubpages&logoColor=white)](https://5seoyoung.github.io/About-me/)
+
+## My Blog <br>
+[![Tistory Badge](https://img.shields.io/badge/Tistory-FF5722?style=flat-square&logo=tistory&logoColor=white)](https://5seo0.tistory.com)
 
 ## Technical Skills <br>
 Languages <br>
 [![Python Badge](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
 [![SQL Badge](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)](https://www.mysql.com/)
 [![PyTorch Badge](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white)](https://pytorch.org/)
+[![HTML Badge](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS Badge](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
 Tools <br>
 [![VSCode Badge](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
