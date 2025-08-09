@@ -8,7 +8,8 @@ While I find other areas of data fascinating, I’m especially drawn to the heal
 They’re the most interesting to me, and I’m focusing my studies on these domains.
 
 ## About me <br>
-[![Portfolio Badge](https://unleashed-oil-858.notion.site/5seoyoung?source=copy_link)
+## About me <br>
+[![Portfolio Badge](https://img.shields.io/badge/Portfolio-Notion-blue?style=flat&logo=notion&logoColor=white)](https://unleashed-oil-858.notion.site/5seoyoung)
 
 ## My Blog <br>
 [![Tistory Badge](https://img.shields.io/badge/Tistory-FF5722?style=flat-square&logo=tistory&logoColor=white)](https://5seo0.tistory.com)
