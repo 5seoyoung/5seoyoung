@@ -41,7 +41,7 @@ Tools <br>
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/5seo0/)](https://www.linkedin.com/in/5seo0/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:inmani1555@gmail.com)](mailto:inmani1555@gmail.com)
 
-## 🧊 3D Contribution Graph
+
 <p align="center">
   <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph" />
 </p>
