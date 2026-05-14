@@ -33,11 +33,11 @@ Tools <br>
 [![Figma Badge](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)](https://figma.com/)
 [![Notion Badge](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)](https://notion.so/)
 
+## Contact
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/5seo0/)](https://www.linkedin.com/in/5seo0/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:inmani1555@gmail.com)](mailto:inmani1555@gmail.com)
+
 ## 🧊 3D Contribution Graph
 <p align="center">
   <img src="./profile-3d-contrib/profile-night-view.svg" alt="3D contribution graph" />
 </p>
-
-## Contact
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/5seo0/)](https://www.linkedin.com/in/5seo0/)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:inmani1555@gmail.com)](mailto:inmani1555@gmail.com)
