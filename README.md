@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0000FF,100:00FFFF&customColorList=10&height=200&text=Seoyoung's%20GITHUB&fontSize=50&animation=twinkling&fontAlign=68&fontAlignY=36)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:14B8A6,100:5EEAD4&height=200&text=Seoyoung's%20GITHUB&fontSize=50&animation=twinkling&fontAlign=68&fontAlignY=36)
 
 
 ## Hi there 👋
@@ -12,7 +12,7 @@ world challenges in medicine, and I’m actively seeking opportunities to grow t
 interdisciplinary collaboration, and practical applications in this field.
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3000&pause=1000&color=14B8A6&center=true&vCenter=true&width=500&lines=Healthcare+AI+Researcher;Medical+Data+Scientist;AI+for+Medicine" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3000&pause=1000&color=14B8A6&center=true&vCenter=true&width=500&lines=Medical+AI+Researcher;Medical+Data+Scientist;AI+for+Medicine" alt="Typing SVG" />
 </p>
 
 ## About me <br>
