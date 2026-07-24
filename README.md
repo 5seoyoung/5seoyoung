@@ -15,10 +15,6 @@ interdisciplinary collaboration, and practical applications in this field.
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3000&pause=1000&color=14B8A6&center=true&vCenter=true&width=500&lines=Medical+AI+Researcher;Medical+Data+Scientist;AI+for+Medicine" alt="Typing SVG" />
 </p>
 
-## About me <br>
-[![Portfolio Badge](https://img.shields.io/badge/Portfolio-Notion-blue?style=flat&logo=notion&logoColor=white)](https://unleashed-oil-858.notion.site/Seoyoung-Oh-1a4aca17c53a80f4a660f521f5af7a01)
-
- 
 
 ## Technical Skills <br>
 Languages <br>
